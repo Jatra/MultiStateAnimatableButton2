@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item app:state_readying="true" android:drawable="@drawable/bleanim"/>
+    <item app:state_operating="true" android:drawable="@drawable/bletransmit"/>
+    <item android:drawable="@drawable/play"    />
+
+</selector>
